@@ -88,6 +88,20 @@ Quran text and translation: [AlQuran Cloud](https://alquran.cloud/api). Tafsir: 
 - The "Nûr" AI assistant screen is a placeholder describing a planned feature; it is not implemented yet.
 - State and rendering are global and string-template based. Next steps: migrate to ES modules (the inline `onclick` handlers will need to move to event listeners first) and move state handling to a small store.
 - The religious content (including the women's fiqh section) was written for personal use and should be reviewed by a qualified source before wider distribution.
+- 
+Copyright (c) 2026 Oumou N’Daou. All rights reserved.
+
+This source code and its design are published for viewing and evaluation only,
+for example by recruiters, employers and collaborators reviewing the author's work.
+
+No permission is granted to copy, modify, redistribute, sublicense, sell or use
+this software, in whole or in part, for any other purpose without the prior
+written permission of the author.
+
+Third-party content (Quran text and translation, tafsir, recitation audio and
+prayer times) is provided by external services (AlQuran Cloud, spa5k/tafsir_api,
+EveryAyah, AlAdhan) and remains subject to their own terms. It is not covered
+by this notice.
 
 ## Author
 
